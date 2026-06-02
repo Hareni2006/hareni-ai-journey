@@ -1,3 +1,5 @@
+<img width="746" height="905" alt="Screenshot 2026-06-02 174809" src="https://github.com/user-attachments/assets/ba3db1a5-ba4a-4dbd-b2c8-1a129d289769" />
+<img width="1254" height="1254" alt="ChatGPT Image Jun 2, 2026, 06_18_54 PM" src="https://github.com/user-attachments/assets/355c5a87-4978-45b1-96a0-2ba6751ae179" />
 # Day 2 - What Is Prompt Engineering
 
 ## Objective
